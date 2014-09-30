@@ -1,0 +1,74 @@
+ Proyecto práctica 1 Grupo 11: “Hooli”
+1.- Descripción del proyecto:
+
+El proyecto consiste en la creación de una red social relacionada con el aprendizaje de la Programación en general, principalmente indicado para estudiantes y centrado en lenguajes como C#, C++ o java entre otros (en general a la POO).
+
+Consiste en crear un punto de encuentro entre personas que se inician en la programación, donde podrán plantear sus dudas o trabajos. Podrán incluir sus códigos para que otros usuarios puedan revisarlos y ayudar a corregirlos o mejorarlos.
+
+1.1.- Objetivos:
+
+Con la creación de este proyecto queremos poner en contacto a personas relacionadas con el mundo de la programación mediante la creación de una red social donde se puedan plantear y resolver dudas.
+
+La primera toma de contacto con los lenguajes de programación suele resultar difícil y nuestro objetivo principal es el de facilitar la compresión y que nuestra red social sea un punto de apoyo en la iniciación del mundo de la Programación.
+
+Otro de los objetivos sería posicionarnos en la red y convertir la red social en un referente en lengua castellana.
+
+1.2.- Contexto:
+
+En la actualidad son pocas las redes sociales dedicadas a la programación en lengua castellana y es por eso que decidimos poner en marcha este proyecto con la finalidad de crear una gran comunidad de programadores. En nuestro país, los recursos educativos para la formación en programación todavía son muy escasos y no es hasta los estudios de formación profesional superior o estudios universitarios cuando realmente tiene un peso en la educación. Es por eso que queremos poner en marcha esta plataforma. Cada vez es mas importante para la sociedad adquirir conocimientos informáticos y de programación ya que nos dirigimos inevitablemente hacia un mundo enteramente digital.
+
+1.3.- Referentes:
+
+Nuestra idea está basada en las siguientes redes sociales:
+
+    https://coderwall.com/
+    http://www.codecademy.com/es
+    http://stackoverflow.com/
+
+Estos portales tienen un diseño y sistema similar al que queremos desarrollar, aunque la mayoría están en inglés, lo cual puede ser una desventaja para los estudiantes que no dominen dicha lengua.
+2.- Propuesta de trabajo:
+
+En primer lugar debemos realizar un trabajo conjunto de documentación sobre redes sociales y elementos necesarios para su puesta en funcionamiento. ¿Qué es una red social?, ¿cómo funcionan?, ¿cuáles son sus elementos básicos?,¿redes sociales relacionadas con nuestra temática? Después deberemos informarnos acerca de la oferta de software libre indicado para la creación de redes sociales, así como su funcionamiento. A la hora de elegir el CMS (gestor de contenidos) nos hemos decantado por integrar WordPress y question2answer, ya que WordPress es bastante intuitivo a la hora de usarlo y permite incorporar question2asnwer. Hemos decidido usar question2asnwer porque es gratuito y permiten gestionar todo el apartado de preguntas y respuestas de forma sencilla.
+
+Después tendremos que definir como queremos que funcione nuestra red social, el target y la proyección de la misma. Para poder realizar esto lo que haremos será un reparto de tareas.
+
+Reparto de tareas:
+
+El reparto de tareas se hará en función de nuestras habilidades. Básicamente definimos tres puntos claves: Diseño, implementación y fase beta.
+
+En la fase de diseño haremos una puesta en común a partir de la información que tenemos. Haremos bocetos sobre el aspecto y organización de la red así como de su contenido, también haremos un diagrama del menú y sus contenidos.
+
+En la siguiente fase tendremos que aprender a como usar el software (WordPress y question2answer), también deberemos empezar a construir el servidor sobre el que alojará nuestra página. Una vez aprendido a usar el software implementaremos el código necesario para el diseño así como el estrictamente necesario para el funcionamiento de las aplicaciones que va a tener nuestra red social.
+
+En la última fase alojaremos nuestra red social y probaremos su funcionamiento en fase beta, usando nuestros contactos conocidos para poder encontrar errores y solventarlos. En esta fase trataremos de dar a conocer nuestra red social para que haya más usuarios.
+3.- Recursos necesarios: ¿Quién o con qué vamos a realizar el proyecto?
+
+La creación de una red social es bastante compleja y necesitaremos bastantes recursos y conocimientos sobre todo de informática, diseño y programación. Intentaremos realizar el proyecto con nuestros ordenadores para evitar aumentar el coste económico del proyecto y no contrataremos a ningún empleado por el mismo motivo. Para el desarrollo del proyecto necesitaremos alquilar un dominio y host, a ser posible gratuito, además de todo el software que usaremos, a ser posible también gratuitos.
+4.- Calendario de ejecución:
+
+Hemos elegido el software ganttprojects por ser un software libre para realizar nuestro calendario de proyecto y dependencias entre los diferentes trabajos. Permite crear calendarios de proyectos y es complatible con los sistemas operativos mas comunes. http://www.ganttproject.biz/.
+
+Asignación de tareas por colores: Amarillo(Todos los componentes), Rojo(Julián Sánchez), Azul(Daniel Omar) y Verde(José Ortiz).
+
+En este calendario se detallan las fases de: Documentación, estudio de mercado (webs similares),target y proyección de nuestra red social. Selección del software necesario.CMS, gestor de redes sociales., estructuración del contenido y diseño gráfico de la web. Contratar servidor y subir archivos ftp. Por último activar la red social en fase beta para ir comprobando posibles errores o bugs.
+
+5.- Coste previsto: ¿Cuánto va a costar el proyecto?
+
+El proyecto puede realizarse con medios gratuitos, en el caso de que sólo queramos presentar un borrador, o utilizando medios de pago, en el caso de ser factible el proyecto y querer darle una salida profesional.
+
+Medios gratuitos:
+
+    Alojamiento web (www.000webhost.com) Coste 0€
+    Dominio (www.dot.tk) Coste 0€
+    CMS WordPress (Gestor de contenidos con licencia GNU) Coste 0€
+    Diseño Logotipo. Coste 0€ (Contamos con un diseñador)
+
+Medios de pago (en el caso de querer dar salida profesional al proyecto):
+
+    Alojamiento (www.configbox.com) Coste 30€ (más o menos)
+    Dominio .es y .com (www.configbox.com) Coste 20€ (más o menos)
+    Publicidad (Campañas publicitarias de promoción del sitio web) Coste (50€/mes más o menos)
+
+En el caso de utilizar medios de pago, el coste inicial sería el más difícil de asumir, puesto que habría que pagar el alojamiento y el dominio, y, además, invertir una cantidad importante en publicitar el sitio web.
+
+Como el sitio web no vende ningún producto ni servicio, la única forma de obtener beneficios sería mediante la publicación de banners publicitarios de empresas en la propia web. Este servicio sólo se podría ofrecer a largo plazo, ya que las empresas necesitan saber que hay un volumen importante de usuarios en nuestro sitio para querer publicitarse en él.
