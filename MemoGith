@@ -1,0 +1,18 @@
+Creación de cuenta GITHUB
+
+Cuentas :
+https://github.com/juliansanchez
+https://github.com/jchemus
+https://github.com/piticli1988
+
+Proyecto : https://github.com/juliansanchez/SM2014Redsocial
+
+Para la realización de este proyecto de red social hemos utilizado una plataforma de desarrollo colaborativo de software. GitHub es una plataforma para alojar proyectos utilizando el sistema de control de versiones Git.
+
+Para ello, primero hemos abierto una cuenta en GitHub y hemos creado un repositorio llamado SM2014Redsocial.
+
+Luego hemos aprendido algunos fundamentos y comandos del programa. Para ello hemos tenido que:
+
+Descargar Git desde la consola de comandos de Ubuntu. Configurar la cuenta, nombre de usuario y email. Crear un directorio local, sincronizar nuestro ordenador con GitHub y clonar nuestro repositorio.
+
+Posteriormente hemos realizado pruebas de subida, bajada y modificación de archivos, hacer commits, examinar el registro, crear y fusionar ramas. 
